@@ -1,0 +1,5 @@
+Task 1
+    - allow for multiple inputstreams in DLB creation
+    - allow for multiple instances of DLBs as the hotspot detector
+    algorithm refines into substructures representing statistics
+    on reoccuring patterns of the larger original input
